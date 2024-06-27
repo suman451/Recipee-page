@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(243,229,216);
+    min-height: 200vh;
+   
+}
+
+.card{
+    position:absolute;
+    inset: 0;
+    align-items: center;
+    justify-content: center;
+    min-height: 1300px;
+    width: 510px;
+    background-color: white;
+    border-radius: 16px;
+    box-shadow: 0px 10px 5px 10px rgb(229, 196, 201);
+    padding: 2rem;
+    position: relative;
+    left: 340px;
+    
+}
+img{
+    width: 100%;
+    border-radius: 1rem;
+    
+}
+h1{
+    color:rgb(44,43,41);
+    font-size: 40px
+}
+.grey{
+   color :rgb(143,138,135);
+}
+.purple{
+        background-color: rgb(255,247,252)rgb(255,247,252);
+}
+.pinch{
+    color: rgb(192, 52, 108);
+    font-size: 20px;
+    font-weight: 400;
+}
+.brown{
+    color: rgb(134,71,50);
+    font-size: 20px;
+    font-weight: 700;
+}
+table{
+    padding: 20px;
+    
+}
+td{
+    padding: 10px;
+
+    
+}
+.gap{
+position: relative;
+left: 200px;
+}
